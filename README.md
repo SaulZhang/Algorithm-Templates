@@ -25,3 +25,6 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 #### 6.队/栈/堆的基本应用
 
 - 表达式求值(逆波兰[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/6-%E9%98%9F-%E6%A0%88-%E5%A0%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC/main.cpp))
+
+#### 7.排序算法
+![各排序算法时间复杂对比](https://github.com/SaulZhang/Algorithm-Templates/raw/master/pic/%E5%90%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.png)
