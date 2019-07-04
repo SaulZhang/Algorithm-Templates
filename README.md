@@ -16,6 +16,7 @@ Story some algorithm templates with program design competion.
 Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra/main.cpp))
 
 #### 3.树：
+- 并查集([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/3-%E6%A0%91/%E5%B9%B6%E6%9F%A5%E9%9B%86/main.cpp))
 
 #### 4.动态规划：
 
