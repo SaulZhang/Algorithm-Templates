@@ -43,4 +43,4 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 猴排序
 
 #### 8.字符串相关算法
-- KMP算法
+- KMP算法（[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/8-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%85%B3/KMP.cpp)）
