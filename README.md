@@ -41,3 +41,6 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 桶排序
 睡眠排序
 猴排序
+
+#### 8.字符串相关算法
+- KMP算法
