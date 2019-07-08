@@ -1,6 +1,6 @@
 /*
 HDU 1710
-ÒÑÖªÏÈĞò±éÀúºÍÖĞĞò±éÀúµÄ½á¹ûÇóºóĞø±éÀúµÄ½á¹û
+å·²çŸ¥å…ˆåºéå†å’Œä¸­åºéå†çš„ç»“æœæ±‚åç»­éå†çš„ç»“æœ
 http://acm.hdu.edu.cn/showproblem.php?pid=1710
 */
 #include <iostream>
@@ -22,9 +22,9 @@ TreeNode* create(){
     return &Tree[loc++];
 }
 
-//¸ù¾İÇ°Ğò±éÀúºÍºóĞø±éÀúµÄ½á¹û¹¹Ôì¶ş²æÊ÷
-TreeNode* construct(int pl,int pr,int il,int ir){//pl,pr·Ö±ğÎªÇ°Ğò±éÀúÆäÊµ×Ö·ûµÄÆğÊ¼ºÍÖÕÖ¹ÏÂ±ê
-                                                  //il,ir·Ö±ğÎªÖĞĞò±éÀúÆäÊµ×Ö·ûµÄÆğÊ¼ºÍÖÕÖ¹ÏÂ±ê
+//æ ¹æ®å‰åºéå†å’Œåç»­éå†çš„ç»“æœæ„é€ äºŒå‰æ ‘
+TreeNode* construct(int pl,int pr,int il,int ir){//pl,pråˆ†åˆ«ä¸ºå‰åºéå†å…¶å®å­—ç¬¦çš„èµ·å§‹å’Œç»ˆæ­¢ä¸‹æ ‡
+                                                  //il,iråˆ†åˆ«ä¸ºä¸­åºéå†å…¶å®å­—ç¬¦çš„èµ·å§‹å’Œç»ˆæ­¢ä¸‹æ ‡
     TreeNode* T = create();
 
     T->data = Pre[pl];
@@ -38,10 +38,10 @@ TreeNode* construct(int pl,int pr,int il,int ir){//pl,pr·Ö±ğÎªÇ°Ğò±éÀúÆäÊµ×Ö·ûµÄ
         }
     }
 
-    if(rootIn!=il){//µİ¹é¹¹Ôì×ó×ÓÊ÷
+    if(rootIn!=il){//é€’å½’æ„é€ å·¦å­æ ‘
         T->lchild = construct(pl+1,pl+rootIn-il,il,rootIn-1);
     }
-    if(rootIn!=ir){//µİ¹é¹¹ÔìÓÒ×ÓÊ÷
+    if(rootIn!=ir){//é€’å½’æ„é€ å³å­æ ‘
         T->rchild = construct(pl+rootIn-il+1,pr,rootIn+1,ir);
     }
 
@@ -49,8 +49,36 @@ TreeNode* construct(int pl,int pr,int il,int ir){//pl,pr·Ö±ğÎªÇ°Ğò±éÀúÆäÊµ×Ö·ûµÄ
 
     return T;
 }
+//å…ˆåºéå†
+void preOrder(TreeNode* T){
 
-//ºóĞø±éÀú
+    ans.push_back(T->data);
+    if(T->lchild!=NULL){
+        preOrder(T->lchild);
+    }
+
+    if(T->rchild!=NULL){
+        preOrder(T->rchild);
+    }
+
+}
+
+//ä¸­åºéå†
+void inOrder(TreeNode* T){
+
+    if(T->lchild!=NULL){
+        inOrder(T->lchild);
+    }
+
+    ans.push_back(T->data);
+
+    if(T->rchild!=NULL){
+        inOrder(T->rchild);
+    }
+
+}
+
+//åç»­éå†
 void postOrder(TreeNode* T){
 
     if(T->lchild!=NULL){
@@ -64,6 +92,11 @@ void postOrder(TreeNode* T){
     ans.push_back(T->data);
 
 }
+
+
+
+
+
 
 
 int main()
@@ -84,7 +117,7 @@ int main()
         postOrder(T);
 
         for(int i=0;i<ans.size();i++){
-            if(i==ans.size()-1)//ĞĞÎ²Ã»ÓĞÀ¨ºÅ
+            if(i==ans.size()-1)//è¡Œå°¾æ²¡æœ‰æ‹¬å·
                 cout<<ans[i];
             else
                 cout<<ans[i]<<" ";
@@ -98,5 +131,3 @@ int main()
 1 2 4 7 3 5 8 9 6
 4 7 2 1 8 5 9 3 6
 */
-
-
