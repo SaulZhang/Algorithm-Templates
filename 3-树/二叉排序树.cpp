@@ -1,3 +1,6 @@
+/*
+题目来源：https://www.nowcoder.com/practice/b42cfd38923c4b72bde19b795e78bcb3?tpId=40&tqId=21555&tPage=1&rp=1&ru=/ta/kaoyan&qru=/ta/kaoyan/question-ranking
+*/
 #include <iostream>
 #define N 100+5
 using namespace std;
