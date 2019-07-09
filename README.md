@@ -20,7 +20,7 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 - 树的构造(已知先序遍历和中序遍历的结果构造二叉树([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/3-%E6%A0%91/%E5%B9%B6%E6%9F%A5%E9%9B%86/%E6%A0%91%E7%9A%84%E6%9E%84%E9%80%A0/%E5%85%88%E5%BA%8F%2B%E4%B8%AD%E5%BA%8F-%3E%E5%90%8E%E7%BB%AD/main.cpp)))
 
 #### 4.动态规划：
-- LIS(O(nlog)复杂度算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/4-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LIS.cpp)))
+- LIS(O(nlogn)复杂度算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/4-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LIS.cpp)))
 - 背包问题(0-1背包/完全背包/多重背包/刚好装满([√](https://github.com/SaulZhang/Algorithm-Templates/tree/master/4-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)))
 
 
