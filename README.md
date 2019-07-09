@@ -8,9 +8,9 @@ Story some algorithm templates with program design competion.
 #### 2.图论：
 
 图的存储:
-- 邻接矩阵
-- 邻接链表
-- 链式前向星([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F/main.cpp))
+- 邻接矩阵[稠密]
+- 邻接链表[稀疏]
+- 链式前向星(与邻接链表相似，但访问数组的速度比vector快，[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F/main.cpp))
 
 最短路:
 Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra/main.cpp))
@@ -25,6 +25,11 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 
 
 #### 5.搜索(DFS/BFS):
+
+DFS利用函数的递归调用栈进行搜索，一般是在搜索的解空间树上面进行遍历，一般不需要对结点的访问状态进行标记。[关键词：遍历所有从根结点到叶节点路径]
+
+BFS利用队列来完成结点扩展的过程，在结点的扩展过程中需要一次性扩展完该结点邻域中未被访问过的结点，并且需要对访问过的结点进行标记，避免陷入无限访问的死循环中。[关键词：一次扩展，最优性质，状态标记]
+
 
 #### 6.队/栈/堆的基本应用
 
