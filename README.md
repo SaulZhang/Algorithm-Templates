@@ -15,6 +15,10 @@ Story some algorithm templates with program design competion.
 最短路:
 Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra/main.cpp))
 
+做题是在构建图结构的时候需要留意以下坑点：
+①是否可能存在多重边(求最短路时保留最短边)
+②非连通图，最短路可能不存在
+
 #### 3.树：
 - 并查集([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/3-%E6%A0%91/%E5%B9%B6%E6%9F%A5%E9%9B%86/main.cpp))
 - 树的构造(已知先序遍历和中序遍历的结果构造二叉树([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/3-%E6%A0%91/%E5%B9%B6%E6%9F%A5%E9%9B%86/%E6%A0%91%E7%9A%84%E6%9E%84%E9%80%A0/%E5%85%88%E5%BA%8F%2B%E4%B8%AD%E5%BA%8F-%3E%E5%90%8E%E7%BB%AD/main.cpp)))
