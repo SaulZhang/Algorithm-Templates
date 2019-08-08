@@ -1,7 +1,7 @@
 /*
-    第一遍的做题思路：因为如果只考虑到要保证minTack最小的话，这样在求解的过程中是
-    最优最优子结构的。
-
+    仍有两个样例没有通过，参考柳神代码：https://www.liuchuo.net/archives/2373
+    【仍存在的疑惑，为什么不是对于自行车的数量在dij的过程中不具有最优子结构的性质】
+    题意：首先如果有多条最短的路径，则选择
     （ If there are more than one shortest path, the one that requires
        the least number of bikes sent from PBMC will be chosen.）
     (Note that if such a path is not unique, output the one that requires
