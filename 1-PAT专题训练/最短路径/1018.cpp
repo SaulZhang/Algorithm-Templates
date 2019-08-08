@@ -1,7 +1,9 @@
 /*
     仍有两个样例没有通过，参考柳神代码：https://www.liuchuo.net/archives/2373
     【仍存在的疑惑，为什么不是对于自行车的数量在dij的过程中不具有最优子结构的性质】
-    题意：首先如果有多条最短的路径，则选择
+    题意：首先如果有多条最短的路径，则选择需要从PBMC带来最少数量自行车的方案，如果
+    在此条件下人存在多条路径的话(带来的自行车数均为0的时候)，则选择需要带回PBMC自
+    行车数量最少的路线。
     （ If there are more than one shortest path, the one that requires
        the least number of bikes sent from PBMC will be chosen.）
     (Note that if such a path is not unique, output the one that requires
