@@ -47,7 +47,7 @@ int main()
     dis[newP] = 0;
     numTeam[newP] = team[newP];
     mark[newP]  = true;
-    numPath[newP]=1;
+    numPath[newP]=1;//第一次出错的地方
 
     int v,c;
     for(int i=1;i<n;i++){
@@ -56,12 +56,12 @@ int main()
             c = Vec[newP][j].c;
             if(!mark[v]){
                 if(dis[newP]+c==dis[v]){
-                    numPath[v]+=numPath[newP];
+                    numPath[v]+=numPath[newP];//第一次出错的地方
                     if(numTeam[newP]+team[v]>numTeam[v])
                         numTeam[v] = numTeam[newP]+team[v];
                 }
                 else if(dis[newP]+c<dis[v]){
-                    numPath[v]=numPath[newP];
+                    numPath[v]=numPath[newP];//第一次出错的地方
                     dis[v] = dis[newP] + c;
                     numTeam[v] = numTeam[newP]+team[v];
                 }
