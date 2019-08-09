@@ -23,44 +23,46 @@
 <br><br>
 
 ### 图的遍历<br>
-1013. Battle Over Cities (25)-PAT甲级真题（图的遍历，统计强连通分量的个数，dfs）<br>
-1021. Deepest Root (25)-PAT甲级真题（图的遍历，dfs，连通分量的个数）<br>
-1034. Head of a Gang (30)-PAT甲级真题（图的遍历dfs）<br>
-1072. Gas Station (30)-PAT甲级真题（Dijkstra）<br>
-1076. Forwards on Weibo (30)-PAT甲级真题（图的遍历bfs）<br>
+[1013](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840). Battle Over Cities (25)-PAT甲级真题（图的遍历，统计强连通分量的个数，dfs）<br>
+[1021](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856). Deepest Root (25)-PAT甲级真题（图的遍历，dfs，连通分量的个数）<br>
+[1034](https://pintia.cn/problem-sets/994805342720868352/problems/994805456881434624). Head of a Gang (30)-PAT甲级真题（图的遍历dfs）<br>
+[1072](https://pintia.cn/problem-sets/994805342720868352/problems/994805396953219072). Gas Station (30)-PAT甲级真题（Dijkstra）<br>
+[1076](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736). Forwards on Weibo (30)-PAT甲级真题（图的遍历bfs）<br>
 <br><br>
 
 ### 深度优先搜索<br>
-1103. Integer Factorization (30)-PAT甲级真题（dfs深度优先）<br>
+[1103](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224). Integer Factorization (30)-PAT甲级真题（dfs深度优先）<br>
 <br><br>
 
 ### 广度优先搜索<br>
-1091. Acute Stroke (30)-PAT甲级真题（广度优先搜索）<br>
-哈希、散列<br>
-1048. Find Coins (25)-PAT甲级真题(Hash散列)<br>
-1050. String Subtraction (20)-PAT甲级真题（哈希）<br>
-1092. To Buy or Not to Buy (20)-PAT甲级真题<br>
-1084. Broken Keyboard (20)-PAT甲级试题<br>
+[1091](https://pintia.cn/problem-sets/994805342720868352/problems/994805375457411072). Acute Stroke (30)-PAT甲级真题（广度优先搜索）<br><br>
+
+### 哈希、散列<br>
+[1048](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840). Find Coins (25)-PAT甲级真题(Hash散列)<br>
+[1050](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152). String Subtraction (20)-PAT甲级真题（哈希）<br>
+[1092](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368). To Buy or Not to Buy (20)-PAT甲级真题<br>
+[1084](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672). Broken Keyboard (20)-PAT甲级试题<br>
 <br><br>
 
 ### 动态规划<br>
-1007. Maximum Subsequence Sum (25)-PAT甲级真题（动态规划dp）<br>
-1040. Longest Symmetric String (25)-PAT甲级真题（动态规划）<br>
-1045. Favorite Color Stripe (30)-PAT甲级真题<br>
-1068. Find More Coins (30)-PAT甲级真题（01背包）<br>
+[1007](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168). Maximum Subsequence Sum (25)-PAT甲级真题（动态规划dp）<br>
+[1040](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344). Longest Symmetric String (25)-PAT甲级真题（动态规划）<br>
+[1045](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456). Favorite Color Stripe (30)-PAT甲级真题<br>
+[1068](https://pintia.cn/problem-sets/994805342720868352/problems/994805402305150976). Find More Coins (30)-PAT甲级真题（01背包）<br>
 <br><br>
 
 ### 排序<br>
-1012. The Best Rank (25)-PAT甲级真题<br>
-1016. Phone Bills (25)-PAT甲级真题<br>
-1025. PAT Ranking (25)-PAT甲级真题<br>
-1028. List Sorting (25)-PAT甲级真题<br>
-1055. The World’s Richest (25)-PAT甲级真题<br>
-1062. Talent and Virtue (25)-PAT甲级真题<br>
-1075. PAT Judge (25)-PAT甲级真题<br>
-1080. Graduate Admission (30)-PAT甲级真题<br>
-1083. List Grades (25)-PAT甲级真题<br>
+[1012](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480). The Best Rank (25)-PAT甲级真题<br>
+[1016](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488). Phone Bills (25)-PAT甲级真题<br>
+[1025](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872). PAT Ranking (25)-PAT甲级真题<br>
+[1028](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240). List Sorting (25)-PAT甲级真题<br>
+[1055](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768). The World’s Richest (25)-PAT甲级真题<br>
+[1062](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944). Talent and Virtue (25)-PAT甲级真题<br>
+[1075](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032). PAT Judge (25)-PAT甲级真题<br>
+[1080](https://pintia.cn/problem-sets/994805342720868352/problems/994805387268571136). Graduate Admission (30)-PAT甲级真题<br>
+[1083](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152). List Grades (25)-PAT甲级真题<br>
 <br><br>
+
 ### STL的使用<br>
 1022. Digital Library (30)-PAT甲级真题（map映射）<br>
 1039. Course List for Student (25)-PAT甲级真题<br>
