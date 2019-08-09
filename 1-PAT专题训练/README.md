@@ -1,6 +1,6 @@
 题目分类来源：每场考试的前两天为乙级难度，后两题的分类整理见以下链接（[来自柳神](https://www.liuchuo.net/archives/2502)）
 
-最短路径<br>
+### 最短路径<br>
 [1003](https://pintia.cn/problem-sets/994805342720868352/problems/994805523835109376). Emergency (25)-PAT甲级真题（Dijkstra算法）<br>
 [1018](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024). Public Bike Management (30)-PAT甲级真题（Dijkstra + DFS）<br>
 [1030](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392). Travel Plan (30)-PAT甲级真题（Dijkstra + DFS，输出路径，边权）<br>
@@ -8,21 +8,21 @@
 [1111](https://pintia.cn/problem-sets/994805342720868352/problems/994805358663417856). Online Map (30)-PAT甲级真题（Dijkstra + DFS）<br>
 <br><br>
 
-树的遍历<br>
-1004. Counting Leaves (30)-PAT甲级真题(bfs,dfs,树的遍历，层序遍历)<br>
-1020. Tree Traversals (25)-PAT甲级真题<br>
-1053. Path of Equal Weight (30)-PAT甲级真题(树的遍历)<br>
-1079. Total Sales of Supply Chain (25)-PAT甲级真题（dfs,bfs,树的遍历）<br>
-1086. Tree Traversals Again (25)-PAT甲级真题<br>
-1090. Highest Price in Supply Chain (25)-PAT甲级真题<br>
-1094. The Largest Generation (25)-PAT甲级真题（bfs,dfs,树的遍历）<br>
-1102. Invert a Binary Tree (25)-PAT甲级真题<br>
-1106. Lowest Price in Supply Chain (25)-PAT甲级真题(dfs,bfs,树的遍历)<br>
-1115. Counting Nodes in a BST (30)-PAT甲级真题（二叉树的遍历，dfs）<br>
-1119. Pre- and Post-order Traversals (30)-PAT甲级真题（前序后序转中序）<br>
+### 树的遍历<br>
+[1004](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184). Counting Leaves (30)-PAT甲级真题(bfs,dfs,树的遍历，层序遍历)<br>
+[1020](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072). Tree Traversals (25)-PAT甲级真题<br>
+[1053](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512). Path of Equal Weight (30)-PAT甲级真题(树的遍历)<br>
+[1079](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560). Total Sales of Supply Chain (25)-PAT甲级真题（dfs,bfs,树的遍历）<br>
+[1086](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024). Tree Traversals Again (25)-PAT甲级真题<br>
+[1090](https://pintia.cn/problem-sets/994805342720868352/problems/994805376476626944). Highest Price in Supply Chain (25)-PAT甲级真题<br>
+[1094](https://pintia.cn/problem-sets/994805342720868352/problems/994805372601090048). The Largest Generation (25)-PAT甲级真题（bfs,dfs,树的遍历）<br>
+[1102](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112). Invert a Binary Tree (25)-PAT甲级真题<br>
+[1106](https://pintia.cn/problem-sets/994805342720868352/problems/994805362341822464). Lowest Price in Supply Chain (25)-PAT甲级真题(dfs,bfs,树的遍历)<br>
+[1115](https://pintia.cn/problem-sets/994805342720868352/problems/994805355987451904). Counting Nodes in a BST (30)-PAT甲级真题（二叉树的遍历，dfs）<br>
+[1119](https://pintia.cn/problem-sets/994805342720868352/problems/994805353470869504). Pre- and Post-order Traversals (30)-PAT甲级真题（前序后序转中序）<br>
 <br><br>
 
-图的遍历<br>
+### 图的遍历<br>
 1013. Battle Over Cities (25)-PAT甲级真题（图的遍历，统计强连通分量的个数，dfs）<br>
 1021. Deepest Root (25)-PAT甲级真题（图的遍历，dfs，连通分量的个数）<br>
 1034. Head of a Gang (30)-PAT甲级真题（图的遍历dfs）<br>
@@ -30,11 +30,11 @@
 1076. Forwards on Weibo (30)-PAT甲级真题（图的遍历bfs）<br>
 <br><br>
 
-深度优先搜索<br>
+### 深度优先搜索<br>
 1103. Integer Factorization (30)-PAT甲级真题（dfs深度优先）<br>
 <br><br>
 
-广度优先搜索<br>
+### 广度优先搜索<br>
 1091. Acute Stroke (30)-PAT甲级真题（广度优先搜索）<br>
 哈希、散列<br>
 1048. Find Coins (25)-PAT甲级真题(Hash散列)<br>
@@ -43,14 +43,14 @@
 1084. Broken Keyboard (20)-PAT甲级试题<br>
 <br><br>
 
-动态规划<br>
+### 动态规划<br>
 1007. Maximum Subsequence Sum (25)-PAT甲级真题（动态规划dp）<br>
 1040. Longest Symmetric String (25)-PAT甲级真题（动态规划）<br>
 1045. Favorite Color Stripe (30)-PAT甲级真题<br>
 1068. Find More Coins (30)-PAT甲级真题（01背包）<br>
 <br><br>
 
-排序<br>
+### 排序<br>
 1012. The Best Rank (25)-PAT甲级真题<br>
 1016. Phone Bills (25)-PAT甲级真题<br>
 1025. PAT Ranking (25)-PAT甲级真题<br>
@@ -61,7 +61,7 @@
 1080. Graduate Admission (30)-PAT甲级真题<br>
 1083. List Grades (25)-PAT甲级真题<br>
 <br><br>
-STL的使用<br>
+### STL的使用<br>
 1022. Digital Library (30)-PAT甲级真题（map映射）<br>
 1039. Course List for Student (25)-PAT甲级真题<br>
 1047. Student List for Course (25)-PAT甲级真题<br>
@@ -71,7 +71,7 @@ STL的使用<br>
 1100. Mars Numbers (20)-PAT甲级真题<br>
 <br><br>
 
-链表处理<br>
+### 链表处理<br>
 1032. Sharing (25)-PAT甲级真题<br>
 1052. Linked List Sorting (25)-PAT甲级真题<br>
 1074. Reversing Linked List (25)-PAT甲级真题<br>
@@ -81,21 +81,21 @@ STL的使用<br>
 1024. Palindromic Number (25)-PAT甲级真题（大整数相加）<br>
 <br><br>
 
-二叉搜索树<br>
+### 二叉搜索树<br>
 1043. Is It a Binary Search Tree (25)-PAT甲级真题<br>
 Complete Binary Search Tree (30)-PAT甲级真题<br>
 1099. Build A Binary Search Tree (30)-PAT甲级真题<br>
 <br><br>
 
-平衡二叉树<br>
+### 平衡二叉树<br>
 1066. Root of AVL Tree (25)-PAT甲级真题<br>
 <br><br>
 
-堆排序<br>
+### 堆排序<br>
 1098. Insertion or Heap Sort (25)-PAT甲级真题（堆排序）<br>
 <br><br>
 
-贪心算法<br>
+### 贪心算法<br>
 1033. To Fill or Not to Fill (25)-PAT甲级真题（贪心算法）<br>
 1037. Magic Coupon (25)-PAT甲级真题（贪心算法）<br>
 1038. Recover the Smallest Number (30)-PAT甲级真题（贪心算法）<br>
@@ -103,11 +103,11 @@ Complete Binary Search Tree (30)-PAT甲级真题<br>
 1070. Mooncake (25)-PAT甲级真题<br>
 <br><br>
 
-并查集<br>
+### 并查集<br>
 1107. Social Clusters (30)-PAT甲级真题（并查集）<br>
 1114. Family Property (25)-PAT甲级真题（并查集）<br>
 1118. Birds in Forest (25)-PAT甲级真题（并查集）<br>
 <br><br>
 
-树状数组<br>
+### 树状数组<br>
 1057. Stack (30)-PAT甲级真题（树状数组）<br><br>
