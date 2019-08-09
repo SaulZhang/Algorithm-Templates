@@ -1,6 +1,8 @@
 ### 树的遍历<br>
 
 [1004](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184). Counting Leaves (30)-PAT甲级真题(bfs,dfs,树的遍历，层序遍历)<br>
+- bfs写了一遍，有两个样例没有通过，参考柳神代码用dfs写了一遍，代码从70行降到了30行，惊呆了。<br>
+
 [1020](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072). Tree Traversals (25)-PAT甲级真题<br>
 [1053](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512). Path of Equal Weight (30)-PAT甲级真题(树的遍历)<br>
 [1079](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560). Total Sales of Supply Chain (25)-PAT甲级真题（dfs,bfs,树的遍历）<br>
