@@ -1,6 +1,6 @@
 ## 树的有关题目
 
-1004. Counting Leaves (30)-PAT甲级真题(bfs,dfs,树的遍历，层序遍历)<>
+1004. Counting Leaves (30)-PAT甲级真题(bfs,dfs,树的遍历，层序遍历)
 1020. Tree Traversals (25)-PAT甲级真题
 1053. Path of Equal Weight (30)-PAT甲级真题(树的遍历)
 1079. Total Sales of Supply Chain (25)-PAT甲级真题（dfs,bfs,树的遍历）
