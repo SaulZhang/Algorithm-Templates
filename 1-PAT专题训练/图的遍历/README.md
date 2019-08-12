@@ -4,7 +4,7 @@
 
 图的遍历：dfs/bfs
 
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `My Try:` 
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `My Try:` 
 
 1003：(我的思路)，转化为有约束的求连通分量的个数问题，首先将和被敌军占领的城市相连的所有highway关闭，然后采用并查集求出当前所有城市构成的连通分量的个数m,由于被敌军占领的城市本身就是一个独立的分量，因此最后的答案为m-2.
 
@@ -16,6 +16,6 @@
 
 1076：图的dfs，求小于等于距离L的邻居个数(有；两个用例出错。)
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Revise：` 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Revise：` 
 
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Summary:` 
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Summary:` 
