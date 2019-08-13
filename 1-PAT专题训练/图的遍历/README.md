@@ -20,5 +20,7 @@
 
 - 1021：为了避免超时，只需要采用两次dfs便可以求出答案，无需采用n次dfs。同时关于连通分量的问题，只需要记录一次遍历节点dfs的次数即可，无需再采用并查集的方法进行求解，可以节省不少的时间，避免出错。
 
+-1072："gas station has to be built at such a location that the minimum distance between the station and any of the residential housing is as far away as possible."这句话的意思没有理解对，把between...and...看成了两个条件。总体来说，要求的应该是，所有station与house之间的最短局里mindis应该要取得最大值，也就是木桶效应中的短板要竟可能的长，符合现实中的生活场景。
+其次，采用Floyd算法可以求出任意两点之间的距离但时间复杂度为1e9，超时了。因此这里应该要采用dijkstra算法求10个station的dis数组，时间复杂度为O(NKM)=1e8,比Floyd算法少了一个数量级
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Summary:` 
