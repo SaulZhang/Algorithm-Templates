@@ -15,7 +15,7 @@
 - 1072:(题目好像理解错了，做了一个小时才发现给的用例的意思没理解对。原本的理解，要找的recommendation gas station应该使得所有station到达gas sation的距离总和最小，同时保证该gas station达到所有house的距离再service distance之内，然后用Floyd来求出所有结点之间的最短距离，有一个用例会超时)
 【这个题还有一个需要注意的细节采用printf("%.1f",x)输出x保留一位小数，采用的是舍五入六的方法，因此还需要在答案上加上0.01】
 
-- 1076：图的dfs，求小于等于距离L的邻居个数(有；两个用例出错。)
+- 1076：图的dfs，求小于等于距离L的邻居个数(有两个用例出错。)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Revise：` 
 
