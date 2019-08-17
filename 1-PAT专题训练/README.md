@@ -78,7 +78,8 @@
 [1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464). Linked List Sorting (25)-PAT甲级真题<br>
 [1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144). Reversing Linked List (25)-PAT甲级真题<br>
 [1097](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152). Deduplication on a Linked List (25)-PAT甲级真题<br>
-大整数<br><br>
+
+### 大整数<br><br>
 [1023](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992). Have Fun with Numbers (20)-PAT甲级真题（大整数运算）<br>
 [1024](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608). Palindromic Number (25)-PAT甲级真题（大整数相加）<br>
 <br><br>
