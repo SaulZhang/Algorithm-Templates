@@ -64,33 +64,33 @@
 <br><br>
 
 ### STL的使用<br>
-1022. Digital Library (30)-PAT甲级真题（map映射）<br>
-1039. Course List for Student (25)-PAT甲级真题<br>
-1047. Student List for Course (25)-PAT甲级真题<br>
-1054. The Dominant Color (20)-PAT甲级真题<br>
-1063. Set Similarity (25)-PAT甲级真题<br>
-1071. Speech Patterns (25)-PAT甲级真题（map应用）<br>
-1100. Mars Numbers (20)-PAT甲级真题<br>
+[1022](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336). Digital Library (30)-PAT甲级真题（map映射）<br>
+[1039](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416). Course List for Student (25)-PAT甲级真题<br>
+[1047](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960). Student List for Course (25)-PAT甲级真题<br>
+[1054](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768). The Dominant Color (20)-PAT甲级真题<br>
+[1063](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928). Set Similarity (25)-PAT甲级真题<br>
+[1071](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616). Speech Patterns (25)-PAT甲级真题（map应用）<br>
+[1100](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456). Mars Numbers (20)-PAT甲级真题<br>
 <br><br>
 
 ### 链表处理<br>
-1032. Sharing (25)-PAT甲级真题<br>
-1052. Linked List Sorting (25)-PAT甲级真题<br>
-1074. Reversing Linked List (25)-PAT甲级真题<br>
-1097. Deduplication on a Linked List (25)-PAT甲级真题<br>
+[1032](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920). Sharing (25)-PAT甲级真题<br>
+[1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464). Linked List Sorting (25)-PAT甲级真题<br>
+[1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144). Reversing Linked List (25)-PAT甲级真题<br>
+[1097](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152). Deduplication on a Linked List (25)-PAT甲级真题<br>
 大整数<br><br>
-1023. Have Fun with Numbers (20)-PAT甲级真题（大整数运算）<br>
-1024. Palindromic Number (25)-PAT甲级真题（大整数相加）<br>
+[1023](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992). Have Fun with Numbers (20)-PAT甲级真题（大整数运算）<br>
+[1024](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608). Palindromic Number (25)-PAT甲级真题（大整数相加）<br>
 <br><br>
 
 ### 二叉搜索树<br>
-1043. Is It a Binary Search Tree (25)-PAT甲级真题<br>
+[1043](https://pintia.cn/problem-sets/994805342720868352/problems/994805440976633856). Is It a Binary Search Tree (25)-PAT甲级真题<br>
 Complete Binary Search Tree (30)-PAT甲级真题<br>
-1099. Build A Binary Search Tree (30)-PAT甲级真题<br>
+[1099](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648). Build A Binary Search Tree (30)-PAT甲级真题<br>
 <br><br>
 
 ### 平衡二叉树<br>
-1066. Root of AVL Tree (25)-PAT甲级真题<br>
+[1066](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888). Root of AVL Tree (25)-PAT甲级真题<br>
 <br><br>
 
 ### 堆排序<br>
@@ -98,18 +98,18 @@ Complete Binary Search Tree (30)-PAT甲级真题<br>
 <br><br>
 
 ### 贪心算法<br>
-1033. To Fill or Not to Fill (25)-PAT甲级真题（贪心算法）<br>
-1037. Magic Coupon (25)-PAT甲级真题（贪心算法）<br>
-1038. Recover the Smallest Number (30)-PAT甲级真题（贪心算法）<br>
-1067. Sort with Swap(0,*) (25)-PAT甲级真题（贪心算法）<br>
-1070. Mooncake (25)-PAT甲级真题<br>
+[1033](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080). To Fill or Not to Fill (25)-PAT甲级真题（贪心算法）<br>
+[1037](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472). Magic Coupon (25)-PAT甲级真题（贪心算法）<br>
+[1038](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704). Recover the Smallest Number (30)-PAT甲级真题（贪心算法）<br>
+[1067](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560). Sort with Swap(0,*) (25)-PAT甲级真题（贪心算法）<br>
+[1070](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376). Mooncake (25)-PAT甲级真题<br>
 <br><br>
 
 ### 并查集<br>
-1107. Social Clusters (30)-PAT甲级真题（并查集）<br>
-1114. Family Property (25)-PAT甲级真题（并查集）<br>
-1118. Birds in Forest (25)-PAT甲级真题（并查集）<br>
+[1107](https://pintia.cn/problem-sets/994805342720868352/problems/994805361586847744). Social Clusters (30)-PAT甲级真题（并查集）<br>
+[1114](https://pintia.cn/problem-sets/994805342720868352/problems/994805356599820288). Family Property (25)-PAT甲级真题（并查集）<br>
+[1118](https://pintia.cn/problem-sets/994805342720868352/problems/994805354108403712). Birds in Forest (25)-PAT甲级真题（并查集）<br>
 <br><br>
 
 ### 树状数组<br>
-1057. Stack (30)-PAT甲级真题（树状数组）<br><br>
+[1057](https://pintia.cn/problem-sets/994805342720868352/problems/994805417945710592). Stack (30)-PAT甲级真题（树状数组）<br><br>
