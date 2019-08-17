@@ -109,7 +109,7 @@ Complete Binary Search Tree (30)-PAT甲级真题<br>
 ### 并查集<br>
 [1107](https://pintia.cn/problem-sets/994805342720868352/problems/994805361586847744). Social Clusters (30)-PAT甲级真题（并查集）<br>
 [1114](https://pintia.cn/problem-sets/994805342720868352/problems/994805356599820288). Family Property (25)-PAT甲级真题（并查集）<br>
-[1118](https://pintia.cn/problem-sets/994805342720868352/problems/994805354108403712). Birds in Forest (25)-PAT甲级真题（并查集）<br>
+[1118](https://pintia.cn/problem-sets/994805342720868352/problems/994805354108403712). Birds in Forest (25)-PAT甲级真题（并查集)
 <br><br>
 
 ### 树状数组<br>
