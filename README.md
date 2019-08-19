@@ -1,5 +1,6 @@
 # 基本算法梳理
-Story some algorithm templates with program design competion.
+Story some algorithm templates with program design competion.<br>
+[This is the time of accumulation but not the time of display.]
 
 ## 大纲：
 
