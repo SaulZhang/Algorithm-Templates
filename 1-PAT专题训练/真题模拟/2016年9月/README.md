@@ -3,4 +3,4 @@
 -----------
 
 - 1122 ： 最后一个case错了，不知道是什么情况没有考虑到
-- 1123 ： AVL树的insert和调整的过程，感觉有点麻烦写不动，只能先写个Binary Search Tree了。
+- 1123 ： AVL树的insert和调整的过程，感觉有点麻烦写不动，只能先写个Binary Search Tree骗点分了。
