@@ -1,0 +1,67 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <unordered_map>
+#include <set>
+using namespace std;
+const int N = 1e4+5;
+double Abs(int x){return x<0 ? -1*x : x;}
+struct Family{
+    int id,num;
+    double totSet,totArea;
+    bool operator<(const Family&x)const{
+        if(Abs(totArea/num-x.totArea/x.num)>1e-7)
+            return totArea/num>x.totArea/x.num;
+        else
+            return id<x.id;
+    }
+};
+unordered_map<int,double>Id2Set,Id2Area;//存储人物拥有的房产数量和房子的面积
+int n,k,id,fa,ma,ch,minId=10000,num=0;
+double Mestate,Marea,totSet=0,totArea=0;
+bool Vis[N]={false};
+vector<int> Vec[N];//存储任务之间的关系信息
+vector<Family> Res;//存储家庭信息
+set<int>idSet;//存储所有人的id
+void dfs(int x){
+    Vis[x]=true;
+    minId = min(minId,x);
+    num++;
+    if(Id2Area.count(x)!=0) totArea+=Id2Area[x];
+    if(Id2Set.count(x)!=0) totSet+=Id2Set[x];
+    for(int i=0;i<Vec[x].size();i++){
+        if(!Vis[Vec[x][i]])dfs(Vec[x][i]);
+    }
+}
+int main()
+{
+    cin>>n;
+    for(int i=1;i<=n;i++){
+        cin>>id>>fa>>ma>>k;
+        idSet.insert(id);
+        if(fa!=-1)Vec[fa].push_back(id),Vec[id].push_back(fa),idSet.insert(fa);;
+        if(ma!=-1)Vec[ma].push_back(id),Vec[id].push_back(ma),idSet.insert(ma);;
+        for(int j=1;j<=k;j++){
+            cin>>ch;
+            Vec[id].push_back(ch),Vec[ch].push_back(id);
+            idSet.insert(ch);
+        }
+        cin>>Mestate>>Marea;
+        Id2Set[id]=Mestate;
+        Id2Area[id]=Marea;
+    }
+    int cnt=0;
+    for(auto it=idSet.begin();it!=idSet.end();it++){
+        if(!Vis[*it]){
+            cnt++;
+            totSet=0,totArea=0,minId=10000,num=0;
+            dfs(*it);
+            Res.push_back(Family{minId,num,totSet,totArea});
+        }
+    }
+    sort(Res.begin(),Res.end());
+    printf("%d\n",cnt);
+    for(int i=0;i<Res.size();i++)
+        printf("%04d %d %.3f %.3f\n",Res[i].id,Res[i].num,Res[i].totSet/Res[i].num,Res[i].totArea/Res[i].num);
+    return 0;
+}
