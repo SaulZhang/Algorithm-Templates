@@ -50,24 +50,24 @@
 <br><br>
 
 ### 排序<br>
-[1012](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480). The Best Rank (25)-PAT甲级真题<br>
-[1016](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488). Phone Bills (25)-PAT甲级真题<br>
-[1025](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872). PAT Ranking (25)-PAT甲级真题<br>
-[1028](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240). List Sorting (25)-PAT甲级真题<br>
-[1055](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768). The World’s Richest (25)-PAT甲级真题<br>
-[1062](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944). Talent and Virtue (25)-PAT甲级真题<br>
+（√）[1012](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480). The Best Rank (25)-PAT甲级真题<br>
+（√）[1016](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488). Phone Bills (25)-PAT甲级真题<br>
+（√）[1025](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872). PAT Ranking (25)-PAT甲级真题<br>
+（√）[1028](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240). List Sorting (25)-PAT甲级真题<br>
+（√）[1055](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768). The World’s Richest (25)-PAT甲级真题<br>
+（√）[1062](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944). Talent and Virtue (25)-PAT甲级真题<br>
 [1075](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032). PAT Judge (25)-PAT甲级真题<br>
 [1080](https://pintia.cn/problem-sets/994805342720868352/problems/994805387268571136). Graduate Admission (30)-PAT甲级真题<br>
-[1083](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152). List Grades (25)-PAT甲级真题<br>
+（√）[1083](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152). List Grades (25)-PAT甲级真题<br>
 <br><br>
 
 ### STL的使用<br>
 [1022](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336). Digital Library (30)-PAT甲级真题（map映射）<br>
 [1039](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416). Course List for Student (25)-PAT甲级真题<br>
 [1047](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960). Student List for Course (25)-PAT甲级真题<br>
-[1054](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768). The Dominant Color (20)-PAT甲级真题<br>
-[1063](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928). Set Similarity (25)-PAT甲级真题<br>
-[1071](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616). Speech Patterns (25)-PAT甲级真题（map应用）<br>
+（√）[1054](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768). The Dominant Color (20)-PAT甲级真题<br>
+（√）[1063](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928). Set Similarity (25)-PAT甲级真题<br>
+（√）[1071](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616). Speech Patterns (25)-PAT甲级真题（map应用）<br>
 [1100](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456). Mars Numbers (20)-PAT甲级真题
 <br><br>
 
