@@ -28,7 +28,7 @@
 （√）[1076](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736). Forwards on Weibo (30)-PAT甲级真题（图的遍历bfs）<br><br>
 
 ### 深度优先搜索<br>
-（√）[1103](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224). Integer Factorization (30)-PAT甲级真题（dfs深度优先）
+（√）[1103](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224). Integer Factorization (30)-PAT甲级真题（dfs深度优先）<br>
 （√）[1114](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224). Integer Factorization (30)-PAT甲级真题（dfs深度优先）
 <br><br>
 
