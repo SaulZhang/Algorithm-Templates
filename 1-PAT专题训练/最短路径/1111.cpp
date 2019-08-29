@@ -26,11 +26,9 @@ void dijkstraDis(int n){
                 dis[v] = dis[newP]+tmpL;
                 pre[v].clear();
                 pre[v].push_back(newP);
-//                cout<<newP<<"->"<<v<<endl;
             }
             else if(dis[v]==dis[newP]+tmpL){
                 pre[v].push_back(newP);
-//                cout<<newP<<"->"<<v<<endl;
             }
         }
         int minn = inf;
@@ -39,14 +37,9 @@ void dijkstraDis(int n){
                 newP = i;minn = dis[i];
             }
         }
-//        for(int i=0;i<n;i++)
-//            cout<<dis[i]<<" ";
-//        cout<<endl;
-//        cout<<"choose:"<<newP<<" ";
         markDis[newP]=true;
     }
 }
-
 void dijkstraTim(int n){
     int newP=st;
     markTim[newP]=true;
@@ -74,7 +67,6 @@ void dijkstraTim(int n){
         markTim[newP]=true;
     }
 }
-
 void dfsDis(int n){
     tmppath.push_back(n);
     if(n==st){//找到一条路径
@@ -98,11 +90,9 @@ void dfsDis(int n){
         dfsDis(pre[n][i]);
     tmppath.pop_back();
 }
-
 void dfsTim(int n){
     tmppath.push_back(n);
     if(n==st){//找到一条路径
-        //calculate the time cost.
         if(resTim.size()==0||resTim.size()>tmppath.size())
             resTim=tmppath;
     }
@@ -110,8 +100,6 @@ void dfsTim(int n){
         dfsTim(pre[n][i]);
     tmppath.pop_back();
 }
-
-
 bool check(){
     if(resDis.size()!=resTim.size())
         return false;
@@ -165,6 +153,24 @@ int main()
         }
         cout<<endl;
     }
-
     return 0;
 }
+/*
+10 15
+0 1 0 1 1
+8 0 0 1 1
+4 8 1 1 1
+3 4 0 3 2
+3 9 1 4 1
+0 6 0 1 1
+7 5 1 2 1
+8 5 1 2 1
+2 3 0 2 2
+2 1 1 1 1
+1 3 0 3 1
+1 4 0 1 1
+9 7 1 3 1
+5 1 0 5 2
+6 5 1 1 2
+3 5
+*/
