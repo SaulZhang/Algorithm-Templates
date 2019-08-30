@@ -68,7 +68,7 @@
 （√）[1054](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768). The Dominant Color (20)-PAT甲级真题<br>
 （√）[1063](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928). Set Similarity (25)-PAT甲级真题<br>
 （√）[1071](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616). Speech Patterns (25)-PAT甲级真题（map应用）<br>
-[1100](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456). Mars Numbers (20)-PAT甲级真题
+（x）[1100](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456). Mars Numbers (20)-PAT甲级真题
 <br><br>
 
 ### 链表处理<br>
