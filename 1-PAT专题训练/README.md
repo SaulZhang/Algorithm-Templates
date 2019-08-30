@@ -62,7 +62,7 @@
 <br><br>
 
 ### STL的使用<br>
-[1022](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336). Digital Library (30)-PAT甲级真题（map映射）<br>
+（√）[1022](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336). Digital Library (30)-PAT甲级真题（map映射）<br>
 [1039](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416). Course List for Student (25)-PAT甲级真题<br>
 [1047](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960). Student List for Course (25)-PAT甲级真题<br>
 （√）[1054](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768). The Dominant Color (20)-PAT甲级真题<br>
