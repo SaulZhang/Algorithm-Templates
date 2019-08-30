@@ -4,4 +4,4 @@
 
 - 1022：需要注意一个细节，cin是不会接受'\n'的，而getline(cin,str)会接受'\n'，因此如果在cin后面跟一个getline()那么要在getline()先采用getchar()吸收换行符。而在getline()后面跟一个getline()则不需要采用getchar吸收换行符。 
 
-- 1047：当字符的输入输出量比较大的时候最好统一采用scanf和printf，string类型转为char[N].
+- 1047：当字符的输入输出量比较大的时候而且已经没有办法再优化仍然是超时的情况下，最好统一采用scanf和printf，string类型转为char[N].
