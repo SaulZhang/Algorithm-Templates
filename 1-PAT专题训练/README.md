@@ -56,7 +56,7 @@
 （√）[1028](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240). List Sorting (25)-PAT甲级真题<br>
 （√）[1055](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768). The World’s Richest (25)-PAT甲级真题<br>
 （√）[1062](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944). Talent and Virtue (25)-PAT甲级真题<br>
-[1075](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032). PAT Judge (25)-PAT甲级真题<br>
+（√）[1075](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032). PAT Judge (25)-PAT甲级真题<br>
 [1080](https://pintia.cn/problem-sets/994805342720868352/problems/994805387268571136). Graduate Admission (30)-PAT甲级真题<br>
 （√）[1083](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152). List Grades (25)-PAT甲级真题<br>
 <br><br>
