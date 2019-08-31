@@ -1,4 +1,4 @@
-题目分类来源：每场考试的前两天为乙级难度，后两题的分类整理见以下链接（[来自柳神](https://www.liuchuo.net/archives/2502)）
+题目分类来源：每场考试的前两题为乙级难度，后两题为甲级难度的，最后两题的分类整理见以下链接（[来自柳神](https://www.liuchuo.net/archives/2502)）
 
 ### 最短路径<br>
 （√）[1003](https://pintia.cn/problem-sets/994805342720868352/problems/994805523835109376). Emergency (25)-PAT甲级真题（Dijkstra算法）<br>
