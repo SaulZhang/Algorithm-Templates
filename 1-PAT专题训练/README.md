@@ -72,10 +72,10 @@
 <br><br>
 
 ### 链表处理<br>
-[1032](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920). Sharing (25)-PAT甲级真题<br>
-[1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464). Linked List Sorting (25)-PAT甲级真题<br>
-[1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144). Reversing Linked List (25)-PAT甲级真题<br>
-[1097](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152). Deduplication on a Linked List (25)-PAT甲级真题
+（√）[1032](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920). Sharing (25)-PAT甲级真题<br>
+（√）[1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464). Linked List Sorting (25)-PAT甲级真题<br>
+（x）[1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144). Reversing Linked List (25)-PAT甲级真题<br>
+（√）[1097](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152). Deduplication on a Linked List (25)-PAT甲级真题
 <br><br>
 
 ### 大整数<br><br>
