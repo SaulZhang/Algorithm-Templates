@@ -1,5 +1,12 @@
 题目分类来源：每场考试的前两题为乙级难度，后两题为甲级难度的，最后两题的分类整理见以下链接（[来自柳神](https://www.liuchuo.net/archives/2502)）
 
+总结：
+
+- 代码尽量要精简，避免思路混乱和错误丛生。
+- 能不用STL就不要STL,尤其是大部分题目都可以用array替代map
+- 输入输出如果没有string，最好统一采用scanf()和printf()
+- 对于一些合理数据范围内存在的极端情况经常会有坑点(尤其是前两题)
+
 ### 最短路径<br>
 （√）[1003](https://pintia.cn/problem-sets/994805342720868352/problems/994805523835109376). Emergency (25)-PAT甲级真题（Dijkstra算法）<br>
 （√）[1018](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024). Public Bike Management (30)-PAT甲级真题（Dijkstra + DFS）<br>
