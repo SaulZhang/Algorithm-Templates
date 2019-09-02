@@ -101,7 +101,7 @@
 <br><br>
 
 ### 堆排序<br>
-[1098](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968). Insertion or Heap Sort (25)-PAT甲级真题（堆排序）
+（x）[1098](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968). Insertion or Heap Sort (25)-PAT甲级真题（堆排序）
 <br><br>
 
 ### 贪心算法<br>
