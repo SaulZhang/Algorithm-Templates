@@ -93,11 +93,11 @@
 ### 二叉搜索树<br>
 （√）[1043](https://pintia.cn/problem-sets/994805342720868352/problems/994805440976633856). Is It a Binary Search Tree (25)-PAT甲级真题<br>
 （√）[1064](https://pintia.cn/problem-sets/994805342720868352/problems/994805407749357568)Complete Binary Search Tree (30)-PAT甲级真题<br>
-[1099](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648). Build A Binary Search Tree (30)-PAT甲级真题
+（√）[1099](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648). Build A Binary Search Tree (30)-PAT甲级真题
 <br><br>
 
 ### 平衡二叉树<br>
-[1066](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888). Root of AVL Tree (25)-PAT甲级真题<br>
+（√）[1066](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888). Root of AVL Tree (25)-PAT甲级真题<br>
 <br><br>
 
 ### 堆排序<br>
