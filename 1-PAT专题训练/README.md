@@ -101,15 +101,15 @@
 <br><br>
 
 ### 堆排序<br>
-（x）[1098](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968). Insertion or Heap Sort (25)-PAT甲级真题（堆排序）
+（√）[1098](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968). Insertion or Heap Sort (25)-PAT甲级真题（堆排序）
 <br><br>
 
 ### 贪心算法<br>
-[1033](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080). To Fill or Not to Fill (25)-PAT甲级真题（贪心算法）<br>
-[1037](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472). Magic Coupon (25)-PAT甲级真题（贪心算法）<br>
-[1038](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704). Recover the Smallest Number (30)-PAT甲级真题（贪心算法）<br>
-[1067](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560). Sort with Swap(0,*) (25)-PAT甲级真题（贪心算法）<br>
-[1070](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376). Mooncake (25)-PAT甲级真题
+（x）[1033](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080). To Fill or Not to Fill (25)-PAT甲级真题（贪心算法）<br>
+（√）[1037](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472). Magic Coupon (25)-PAT甲级真题（贪心算法）<br>
+（x）[1038](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704). Recover the Smallest Number (30)-PAT甲级真题（贪心算法）<br>
+（x）[1067](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560). Sort with Swap(0,*) (25)-PAT甲级真题（贪心算法）<br>
+（x）[1070](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376). Mooncake (25)-PAT甲级真题
 <br><br>
 
 ### 并查集<br>
