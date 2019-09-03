@@ -7,3 +7,4 @@
 - 1038 ：首先将所有的segment用string vector进行存储，然后按照字典顺序从小到大进行排序，接下来处理比较麻烦的部分，就是stringA是stringB的前缀，那么这是按照字典顺序会认为stringB>stringA，那们stringA一定排在stringB的前面吗，答案是否定的，因为stringA是否可以排在stringB的前面还要取决于stringA后面跟的是什么，所有我们干脆就把存在争议的字符串先全都压入vector tmp中，然后调用next_permutation()函数对这些可以的字串进排序，然后选取所有的结果中字典序最小的那一个。
 
 - 1067 ： 暂时没啥思路
+- 1070 : 按照单位价格进行排序，从单位价格高的物品开始出售。
