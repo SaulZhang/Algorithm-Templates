@@ -9,7 +9,7 @@ Story some algorithm templates with program design competion.<br>
   素数筛<br>
   分解质因数<br>
   求最大公约数，最小公倍数<br>
-  数位拆解(可以用字符串模拟)<br>(stoi()、stoll()等)
+  数位拆解(可以用字符串模拟)(stoi()、stoll()等)<br>
   二分求幂，矩阵快速幂<br>
   
 #### 2.图论【[[王道考研计算机机试指南--专题训练]Chapter5图论](https://blog.csdn.net/qq_37053885/article/details/88376733)】：
