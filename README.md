@@ -54,7 +54,7 @@ BFS(扩展最近的结点)利用队列来完成结点扩展的过程，每个结
 
 - 表达式求值【中缀->后缀->求值】(逆波兰[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/6-%E9%98%9F-%E6%A0%88-%E5%A0%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC/main.cpp))
 
-#### 7.HASH
+#### 7.哈希(hash)
 （散列表、散列函数【设计原则，尽可能保证映射满足随机独立的均匀分布】、冲突解决策略）<br>
 - 效率的衡量：装填因子=词条数/hash表的长度
 - 散列函数：① 除余法:hash(key)=key mod M ② MAD法：(a×key+b) mod M ③ 其他(平方取中法、折叠法、位异或法) ④ 伪随机数法
