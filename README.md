@@ -4,9 +4,15 @@ Story some algorithm templates with program design competion.<br>
 
 ## 大纲：
 
-#### 1.数论：
-
-#### 2.图论：
+#### 1.数论【[[王道考研计算机机试指南--专题训练]Chapter4 数学问题](https://blog.csdn.net/qq_37053885/article/details/87968177)】：
+  进制转换<br>
+  素数筛<br>
+  分解质因数<br>
+  求最大公约数，最小公倍数<br>
+  数位拆解(可以用字符串模拟)<br>(stoi()、stoll()等)
+  二分求幂，矩阵快速幂<br>
+  
+#### 2.图论【[[王道考研计算机机试指南--专题训练]Chapter5图论](https://blog.csdn.net/qq_37053885/article/details/88376733)】：
 
 图的存储:
 - 邻接矩阵[稠密]
@@ -30,12 +36,12 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 - AVL树：AVL树的创建(左旋、右旋、先左旋后右旋、先右旋后左旋)
 - 红黑树：性质判定
 
-#### 4.动态规划：
+#### 4.动态规划【[[王道考研计算机机试指南--专题训练]Chapter7动态规划](https://blog.csdn.net/qq_37053885/article/details/88540841)】：
 - LIS(O(nlogn)复杂度算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/4-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LIS.cpp)))
 - 背包问题(0-1背包/完全背包/多重背包/刚好装满([√](https://github.com/SaulZhang/Algorithm-Templates/tree/master/4-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)))
 
 
-#### 5.搜索(DFS/BFS):
+#### 5.搜索(DFS/BFS)【[[王道考研计算机机试指南--专题训练]Chapter6搜索](https://blog.csdn.net/qq_37053885/article/details/88429255)】:
 
 DFS(扩展最后的访问的结点)利用函数的递归调用栈进行搜索，一般是在搜索的解空间树上面进行遍历，[如果是有向无环图那么一般不需要对结点的访问状态进行标记](参考树的遍历)。[关键词：遍历所有从根结点到叶节点路径]
 DFS往往与递归调用相联系，在有些递归求解递推的问题中可能存在大量的重复计算，因此可以采用记忆化搜索的方法对中间的结果进行存储，避免大量的重复搜索。
