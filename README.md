@@ -43,7 +43,7 @@ Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/maste
 
 #### 5.搜索(DFS/BFS)【[[王道考研计算机机试指南--专题训练]Chapter6搜索](https://blog.csdn.net/qq_37053885/article/details/88429255)】:
 
-DFS(扩展最后的访问的结点)利用函数的递归调用栈进行搜索，一般是在搜索的解空间树上面进行遍历，[如果是有向无环图那么一般不需要对结点的访问状态进行标记](参考树的遍历)。[关键词：遍历所有从根结点到叶节点路径]
+DFS(扩展最后的访问的结点)利用函数的递归调用栈进行搜索，一般是在搜索的解空间树上面进行遍历，如果是有向无环图那么一般不需要对结点的访问状态进行标记(参考树的遍历)。[关键词：遍历所有从根结点到叶节点路径]
 DFS往往与递归调用相联系，在有些递归求解递推的问题中可能存在大量的重复计算，因此可以采用记忆化搜索的方法对中间的结果进行存储，避免大量的重复搜索。
 
 
@@ -54,8 +54,8 @@ BFS(扩展最近的结点)利用队列来完成结点扩展的过程，每个结
 
 - 表达式求值【中缀->后缀->求值】(逆波兰[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/6-%E9%98%9F-%E6%A0%88-%E5%A0%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC/main.cpp))
 
-#### 7.排序算法
-![各排序算法时间复杂对比]【快排、堆排序、归并排序、选择、插入、冒泡】(https://github.com/SaulZhang/Algorithm-Templates/raw/master/pic/%E5%90%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.png)
+#### 7.排序算法【快排、堆排序、归并排序、选择、插入、冒泡】
+![各排序算法时间复杂对比](https://github.com/SaulZhang/Algorithm-Templates/raw/master/pic/%E5%90%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.png)
 
 ### 具体实现（[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/7-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/main.cpp)）:
 - 插入排序：(简单插入排序、折半插入排序、希尔排序)
