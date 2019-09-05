@@ -58,7 +58,7 @@ DFS往往与递归调用相联系，在有些递归求解递推的问题中可�
 
 #### 6.队/栈/堆的基本应用
 
-- 【栈】表达式求值【中缀->后缀->求值】(逆波兰[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/6-%E9%98%9F-%E6%A0%88-%E5%A0%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC/main.cpp))
+- 【栈】表达式求值【中缀->后缀->求值】(逆波兰[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/6-%E9%98%9F-%E6%A0%88-%E5%A0%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC/main.cpp))，火车调度问题
 - 【队列】BFS，LevelOrder，job
 - 【优先队列】HuffmanTree的构建，Dijkstra的优化，选择排序。
 
