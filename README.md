@@ -77,7 +77,7 @@ DFS往往与递归调用相联系，在有些递归求解递推的问题中可�
   具体实现（[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/7-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/main.cpp)）:
 - 插入排序：(简单插入排序、折半插入排序、希尔排序)
 - 交换排序:(冒泡排序、快速排序)
-- 选择排序：(简单选择排序、堆排序【稳定】)
+- 选择排序：(简单选择排序、堆排序[√](https://github.com/SaulZhang/Algorithm-Templates/tree/master/7-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)【稳定】)
 - 归并排序：
 - 桶排序【数据范围有限】
 - 基数排序【数据的位数有限】
