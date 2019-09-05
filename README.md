@@ -89,3 +89,10 @@ DFS往往与递归调用相联系，在有些递归求解递推的问题中可�
 #### 9.字符串相关算法
 - KMP算法（[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/8-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%85%B3/KMP.cpp)）
 
+#### 10.启发式搜索算法
+
+- 遗传算法(GA)
+- 禁忌搜索
+- 模拟退火
+- 蚁群算法
+- 粒子群算法
