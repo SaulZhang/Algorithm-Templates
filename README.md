@@ -20,7 +20,10 @@ Story some algorithm templates with program design competion.<br>
 - 链式前向星(与邻接链表相似，但访问数组的速度比vector快，[√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F/main.cpp))
 
 最短路:
-Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra/main.cpp))
+【单源最短路径】Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra/main.cpp))
+【多远最短路径】Floyd算法
+
+搜索满足特定条件的路径：DFS算法找到所有从起点到达终点的路径，再逐一进行判断
 
 做题是在构建图结构的时候需要留意以下坑点：
 ①是否可能存在多重边(求最短路时保留最短边)
