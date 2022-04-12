@@ -21,7 +21,7 @@ Story some algorithm templates with program design competion.<br>
 
 最短路:
 - 【单源最短路径】Dijkstra算法([√](https://github.com/SaulZhang/Algorithm-Templates/blob/master/2-%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra/main.cpp))<br>
-- 【多远最短路径】Floyd算法<br>
+- 【多源最短路径】Floyd算法<br>
 
 - 搜索满足特定条件的路径：DFS算法找到所有从起点到达终点的路径，再逐一进行判断
 
